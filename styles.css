@@ -1,9 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto&family=Roboto+Slab&display=swap');
+
 * {
     margin: 0;
     padding: 0;
+}
+
+body {
+    font-family: 'Roboto Slab', serif;
 }
 
 .section-one {
     background-color: #1F2937;
 }
 
+#header-logo {
+    font-size: 24px;
+    color: #E5E7EB;
+}
+
+.header-link {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 10px;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.header-link {
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+    
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.content-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    width: 50%;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+}
+
+img {
+    margin: 50px;
+    width: 40%;
+    margin-bottom: 50px;
+}
+
+.content-left {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 70px;
+    justify-content: center;
+}
+
+.p1 {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.button1 {
+    background-color: #3882F6;
+    color: white;
+    width: 100px;
+    height: 25px;
+    border: 1px #3882F6;
+    border-radius: 10px;
+}
