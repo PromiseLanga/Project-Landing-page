@@ -125,6 +125,77 @@ h2 {
 
 }
 
+.para {
+    display: flex;
+    flex-direction: row;
+    background-color: #F9FAF8;
+    justify-content: space-evenly;
+    align-content: center;
+}
+
+.section-three {
+    background-color: #E5E7EB;
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.p6 {
+    font-style: light italic;
+    color:#1F2937;
+    font-size: 36px;
+
+}
+
+.p7 {
+    color:#1F2937;
+    font-size: 26px;
+    text-align: right;
+
+    
+}
+
+.section-four {
+    background-color: #F9FAF8;
+    padding: 110px;
+    text-align: center;
+
+    
+}
+
+.blue {
+    background-color: #3882F6;
+    color:#F9FAF8;
+    border-radius: 15px;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.h3 {
+    padding-top: 50px;
+    text-align: left;
+    font-size: 20px;
+    padding-left: 150px;
+}
+
+.button2 {
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    height: 3rem;
+    width: 10rem;
+    border-radius: .25rem;
+    color:#F9FAF8;
+    font-size: medium;
+    font-weight: bolder;
+    
+    
+    
+}
+
+ 
 
 
 
