@@ -190,9 +190,11 @@ h2 {
     color:#F9FAF8;
     font-size: medium;
     font-weight: bolder;
-    
-    
-    
+}
+
+.last-section {
+    padding: 2rem;
+    text-align: center;
 }
 
  
